@@ -10,6 +10,10 @@
 
 <body>
     Belajar Membuat Git
+
+    Mencoba stash
+
+    Stash Berhasil
 </body>
 
 </html>
